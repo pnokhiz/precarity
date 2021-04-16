@@ -5,10 +5,12 @@ Repository for Pegah Nokhiz, Aravinda Kanchana Ruwanpathirana, Neal Patwari,  an
  You can see the ipynb notebooks for both models. 
  
  
-** Please cite our paper in any published work that uses any of these resources.**
+**Please cite our paper in any published work that uses any of these resources.**
 
 ```javascript
-Pegah Nokhiz, Aravinda Kanchana Ruwanpathirana, Neal Patwari,  and Suresh Venkatasubramanian, Precarity: Modeling the long-term effects of compounded decisions on individual instability, AAAI/ACM Conference on AI, Ethics, and Society, 2021.
+Pegah Nokhiz, Aravinda Kanchana Ruwanpathirana, Neal Patwari,  and Suresh Venkatasubramanian, 
+Precarity: Modeling the long-term effects of compounded decisions on individual instability, 
+AAAI/ACM Conference on AI, Ethics, and Society, 2021.
 ```
  
  
